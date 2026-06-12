@@ -1,0 +1,21 @@
+h1 {
+    color:rgb(46, 92, 0)
+}
+
+#p1 {
+    color: darkblue;
+    background-color: rgb(227, 239, 240);
+
+}
+#p2 {
+    color: rgb(139, 0, 0);
+    background-color: rgb(186, 213, 214);
+}
+#p3 {
+    color: rgb(0, 139, 0);
+    background-color: rgb(186, 214, 192);
+}
+
+.Class{
+    text-align: justify;
+}
